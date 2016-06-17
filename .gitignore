@@ -1,0 +1,23 @@
+# Python compiled byte code
+*.pyc
+
+# Vi
+*.*~
+
+# SQLite3 database
+*.sqlite3
+
+# Node modules
+node_modules/
+
+# Bower components
+static/bower_components/
+
+# Uglified JavaScript
+dist/
+
+# Staticfiles
+staticfiles/
+
+# Settings file
+gitnote_api/settings.py
